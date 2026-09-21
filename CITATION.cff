@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and this software release."
+type: software
+title: "Placental metabolomics and lipidomics reproducibility code"
+abstract: "Python and R code for targeted metabolomics and lipidomics gap filling and ComBat batch correction in the ENVIRONAGE placental cohort."
+keywords:
+  - metabolomics
+  - lipidomics
+  - placenta
+  - batch correction
+  - ComBat
+  - mass spectrometry
+authors:
+  - family-names: Cseresznye
+    given-names: Adam
+  - family-names: Vynck
+    given-names: Matthijs
+  - family-names: Engelen
+    given-names: Liesa
+  - family-names: den Ouden
+    given-names: Fatima
+  - family-names: Maris
+    given-names: Elias
+  - family-names: Proost
+    given-names: Sebastian
+  - family-names: Vich i Vila
+    given-names: Arnau
+  - family-names: Hemeryck
+    given-names: Lieselot Y.
+  - family-names: Poma
+    given-names: Giulia
+  - family-names: Pero-Gascon
+    given-names: Roger
+  - family-names: De Saeger
+    given-names: Sarah
+  - family-names: Raes
+    given-names: Jeroen
+  - family-names: Nawrot
+    given-names: Tim S.
+  - family-names: Covaci
+    given-names: Adrian
+  - family-names: Vanhaecke
+    given-names: Lynn
+  - family-names: De Paepe
+    given-names: Ellen
